@@ -1,1 +1,2 @@
 # Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques
+Liver cirrhosis is a serious condition that requires early detection to improve patient outcomes and reduce healthcare burdens. This project harnesses the power of advanced machine learning algorithms to predict the likelihood of liver cirrhosis using clinical and demographic data, aiming to assist healthcare professionals in making data-driven decisions.
